@@ -1,0 +1,61 @@
+[{
+    "productos": [
+      {
+        "precio": 1200,
+        "precioAntes": 1800,
+        "marca":"Juan Valdez",
+        "id": 1,
+        "title": "Café Colombia",
+        "thumbnailUrl": "https://global-uploads.webflow.com/5f96ebdeb7e4b038d8dc6679/5ffb49633c5ff17349d01761_cafe-liofilizado-descafeinado-juan-valdez.png"
+      },
+      {
+        "precio": 300,
+        "precioAntes": 800,
+        "marca":"Nescafe",
+        "id": 2,
+        "title": "Cafe Chileno",
+        "thumbnailUrl": "https://jumbo.vtexassets.com/arquivos/ids/395889/Cafe-Fina-Seleccion-frasco-50g.jpg?v=637469288471430000"
+      },
+      {
+        "precio": 1000,
+        "precioAntes": 1800,
+        "marca":"Cruzeiro",
+        "id": 3,
+        "title": "Cafe brazileño",
+        "thumbnailUrl": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_375,h_418/http://cruzeiro.cl/wp-content/uploads/2019/06/instantaneo_liofilizado.png"
+      },
+      {
+        "precio": 500,
+        "precioAntes": 900,
+        "marca":"Robusto",
+        "id": 4,
+        "title": "Cafe Colombia",
+        "thumbnailUrl": "https://cdn.shopify.com/s/files/1/0272/2873/3504/products/cafe-especial-robusto-cafe-colombiano-f_2048x.png?v=1634079798"
+      },
+      {
+        "precio": 1100,
+        "precioAntes": 1400,
+        "marca":"Jablum",
+        "id": 5,
+        "title": "Cafe Jamaica",
+        "thumbnailUrl": "https://i.ebayimg.com/images/g/SVYAAOSw9nJcZXHa/s-l400.png"
+      },
+      {
+        "precio": 1500,
+        "precioAntes": 2800,
+        "marca":"Kenia",
+        "id": 6,
+        "title": "Cafe Kenia",
+        "thumbnailUrl": "https://i2.wp.com/www.sitemarca.com/wp-content/uploads/2017/02/Kenya.png"
+      },
+      {
+        "precio": 2500,
+        "precioAntes": 1800,
+        "marca":"Tanzania",
+        "id": 7,
+        "title": "Cafe Tanzania",
+        "thumbnailUrl": "https://cdn.shopify.com/s/files/1/0517/0020/3705/products/intenzo_mockup_etiqueta250_TANZANIA.png?v=1637724439"
+      }
+    ]
+    }
+    ]

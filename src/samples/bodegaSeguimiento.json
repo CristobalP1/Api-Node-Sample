@@ -1,0 +1,57 @@
+[
+    {
+      "numeroDePedido":1323232,
+      "nombreProveedor":"felix",
+      "producto":"leche",
+      "precio":"13000",
+      "cantidad":"83",
+      "estado_pedido":"pendiente",
+      "fecha_pedido":"19/06/2022"
+    },
+    {
+      "numeroDePedido":4324234,
+      "nombreProveedor":"brayan",
+      "producto":"aceite Acuenta",
+      "precio":"9000",
+      "cantidad":"1",
+      "estado_pedido":"pendiente",
+      "fecha_pedido":"29/05/2022"
+    },
+    {
+      "numeroDePedido":4343234,
+      "nombreProveedor":"franco",
+      "producto":"azucar Iansa",
+      "precio":"3000",
+      "cantidad":"23",
+      "estado_pedido":"enviado",
+      "fecha_pedido":"19/04/2022"
+    },
+    {
+      "numeroDePedido":434545,
+      "nombreProveedor":"juan",
+      "producto":"bicileta trek",
+      "precio":"119000",
+      "cantidad":"2",
+      "estado_pedido":"enviado",
+      "fecha_pedido":"29/03/2022"
+    },
+    {
+      "numeroDePedido":4343234,
+      "nombreProveedor":"franco",
+      "producto":"azucar",
+      "precio":"3000",
+      "cantidad":"23",
+      "estado_pedido":"cancelado",
+      "fecha_pedido":"19/02/2022"
+    },
+    {
+      "numeroDePedido":5453224,
+      "nombreProveedor":"pedro",
+      "producto":"azucar Fila",
+      "precio":"2300",
+      "cantidad":"4",
+      "estado_pedido":"cancelado",
+      "fecha_pedido":"19/01/2022"
+    }
+   
+  ]
