@@ -3,6 +3,7 @@ const router = Router();
 
 const {apiCoffe,apiAutonomia,apiBodega,apiCalificaciones} = require('../controller/index.controller');
 
+router.get('/',apiCoffe);
 router.get('/coffe',apiCoffe);
 router.get('/autonomia',apiAutonomia);
 router.get('/bodega',apiBodega);
